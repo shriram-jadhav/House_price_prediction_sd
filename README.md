@@ -39,3 +39,17 @@ The model learns a linear relationship:
 - Plotly  
 
 ---
+
+---
+
+## 🚀 How to Run the Project
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/your-username/House-Price-Prediction-App.git
+cd House-Price-Prediction-App
+
+pip install -r requirements.txt
+
+streamlit run app.py
+
